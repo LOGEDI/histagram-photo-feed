@@ -1,0 +1,52 @@
+body{
+    background-color: gray;
+    margin: 0%;
+}
+
+.puppy-header {
+    display:flex;
+    justify-content: space-between;
+   }
+   .puppy-body > img{
+    margin:auto;
+    width:100%;
+  }
+
+  .dog-body > img{
+    margin:auto;
+    width:100%;
+  }
+
+  .dog-header {
+    display:flex;
+    justify-content: space-between;
+   }
+   .laptop-body > img{
+    margin:auto;
+    width:100%;
+  }
+  .laptop-header {
+    display:flex;
+    justify-content: space-between;
+   }
+   .food-body > img{
+    margin:auto;
+    width:100%;
+  }
+  
+  .container {
+	background-color:white;
+	margin: auto;
+  width: 600px;
+}
+
+header{
+  background-color: white;
+   margin: auto;
+   width: 100%;
+}
+
+puppy-header h2,p{
+  padding: 10px;
+}
+
